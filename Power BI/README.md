@@ -1,2 +1,2 @@
-# Power BI Projects
-Projects will be added soon.
+# Power BI Dashboards
+Dashboards will be added soon.
