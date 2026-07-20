@@ -1,81 +1,84 @@
 # 📊 Data Analytics Portfolio
 
-Welcome to my Data Analytics Portfolio! This repository showcases my journey toward becoming a Data Analyst through hands-on projects, continuous learning, and practical applications.
+<p align="center">
+  <strong>Turning Data into Insights | Learning Every Day | Building Real-World Projects</strong>
+</p>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-Hi, I'm **Sagar Nayak**.
+Hello! I'm **Sagar Nayak**, an MCA student and an aspiring **Data Analyst** passionate about extracting meaningful insights from data.
 
-🎓 MCA Student (2027)  
-📊 Aspiring Data Analyst  
-💻 Passionate about Data Analytics, Business Intelligence, and Python Development
-
-I enjoy working with data to identify trends, solve real-world problems, and build meaningful solutions. This portfolio documents my learning journey and the projects I develop using Python, SQL, Excel, Power BI, and related technologies.
+I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, and I continuously build projects to improve my technical and analytical skills.
 
 ---
 
-# 🛠️ Skills
+# 🛠 Tech Stack
 
-- Python
-- SQL
-- Microsoft Excel
-- Power BI
-- Data Visualization
-- Data Cleaning
-- Statistics
-- Django
-- Git & GitHub
+| Category | Technologies |
+|----------|--------------|
+| Programming | Python |
+| Database | SQL, MySQL |
+| Analytics | Pandas, NumPy |
+| Visualization | Matplotlib, Power BI, Excel |
+| Web | Django |
+| Version Control | Git, GitHub |
 
 ---
 
 # 📂 Portfolio Sections
 
-| Folder | Description |
-|--------|-------------|
-| 🐍 **Python** | Python programming, data analysis, and Django projects |
-| 🗄️ **SQL** | SQL queries, database concepts, and practice |
-| 📊 **Excel** | Dashboards, reports, and spreadsheet analysis |
-| 📈 **PowerBI** | Interactive dashboards and business intelligence |
-| 📉 **Statistics** | Statistical concepts used in Data Analytics |
-| 🚀 **Projects** | End-to-end Data Analytics and software projects |
-| 📂 **Datasets** | Datasets used in projects |
-| 📜 **Certificates** | Technical certifications |
-| 🖼️ **Images** | Screenshots, charts, and project visuals |
+| Section | Description | Status |
+|---------|-------------|--------|
+| 🐍 Python | Python Programming & Analytics | ✅ Active |
+| 🗄 SQL | Database Queries | ✅ Active |
+| 📊 Excel | Dashboards & Reports | 🔄 Growing |
+| 📈 Power BI | Business Intelligence | 🔄 Growing |
+| 📉 Statistics | Data Analysis Concepts | 🔄 Growing |
+| 🚀 Projects | Complete Projects | 🚧 In Progress |
+| 📂 Datasets | Project Datasets | ⏳ Coming Soon |
+| 📜 Certificates | Certifications | ⏳ Coming Soon |
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Status |
-|---------|--------|
-| Student Performance Tracker | 🚧 In Progress |
-| Sales Data Analysis | ⏳ Planned |
-| Netflix Data Analysis | ⏳ Planned |
-| HR Analytics Dashboard | ⏳ Planned |
-| Power BI Sales Dashboard | ⏳ Planned |
+| Project | Technology | Status |
+|---------|------------|--------|
+| 🎓 Student Performance Tracker | Django + SQLite | 🚧 In Progress |
+| 📊 Sales Data Analysis | Python + Pandas | ⏳ Planned |
+| 📈 Power BI Sales Dashboard | Power BI | ⏳ Planned |
+| 🎬 Netflix Data Analysis | Python | ⏳ Planned |
+| 👥 HR Analytics Dashboard | Excel + Power BI | ⏳ Planned |
 
 ---
 
-# 🎯 Learning Roadmap
+# 📚 Currently Learning
 
-- ✅ Python Fundamentals
-- ✅ Git & GitHub
-- 🔄 Advanced Python
-- 🔄 SQL
-- 🔄 Excel
-- 🔄 Power BI
-- 🔄 Statistics
-- 🔄 Data Visualization
-- ⏳ Machine Learning
+- Python for Data Analytics
+- SQL
+- Power BI
+- Advanced Excel
+- Machine Learning Basics
+
+---
+
+# 🎯 2026 Goals
+
+- Build 10+ Data Analytics Projects
+- Master SQL
+- Create Interactive Power BI Dashboards
+- Strengthen Python Skills
+- Complete MCA Successfully
+- Secure a Data Analyst Internship
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your email here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/sagar-nayak-b4a85a1b8*
+- 📧 Email: *nayaksagar9080@gmail.com*
 
 ---
 
