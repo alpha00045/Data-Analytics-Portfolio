@@ -2,13 +2,13 @@
 
 Welcome to the Python section of my Data Analytics Portfolio.
 
-# 📖 About
+## 📖 About
 
 This folder contains my Python practice, scripts, and projects focused on Data Analytics.
 
-# 📚Topics Covered
+## 📚Topics Covered
 
-# Core Python
+### Core Python
 - Python Fundamentals
 - Variables & Data Types
 - Conditional Statements
@@ -19,7 +19,7 @@ This folder contains my Python practice, scripts, and projects focused on Data A
 - Exception Handling
 - Modules & Packages
 
-# Data Analytics
+### Data Analytics
 - NumPy
 - Pandas
 - Matplotlib
@@ -27,7 +27,7 @@ This folder contains my Python practice, scripts, and projects focused on Data A
 - Data Visualization
 - Exploratory Data Analysis (EDA)
 
-# Web Development
+### Web Development
 - Django Framework
 - Django ORM
 - Authentication
