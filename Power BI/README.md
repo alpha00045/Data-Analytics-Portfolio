@@ -2,11 +2,11 @@
 
 Welcome to the Power BI section of my Data Analytics Portfolio.
 
-# 📖 About
+## 📖 About
 
 This folder contains interactive dashboards and business intelligence projects built using Microsoft Power BI.
 
-# 📚 Topics Covered
+## 📚 Topics Covered
 
 - Data Import
 - Data Transformation
@@ -17,10 +17,10 @@ This folder contains interactive dashboards and business intelligence projects b
 - Interactive Reports
 - Business Intelligence
 
-# 🚀 Projects
+## 🚀 Projects
 
 Power BI dashboards will be added soon.
 
-# 🎯 Goal
+## 🎯 Goal
 
 To design interactive dashboards that transform raw data into actionable insights.
