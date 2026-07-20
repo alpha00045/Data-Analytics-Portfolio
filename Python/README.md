@@ -6,6 +6,8 @@ Welcome to the Python section of my Data Analytics Portfolio.
 
 This folder contains my Python practice, scripts, and projects focused on Data Analytics.
 
+# 📚Topics Covered
+
 # Core Python
 - Python Fundamentals
 - Variables & Data Types
