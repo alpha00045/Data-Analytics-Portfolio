@@ -34,8 +34,7 @@ I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, a
 | 🐍 [Python](./Python) | Python programming, data analysis & Django | ✅ |
 | 🗄️ [SQL](./SQL) | SQL queries, database concepts & practice | ✅ |
 | 📊 [Excel](./Excel) | Excel dashboards, reports & analysis | 🔄 |
-| 📈 [PowerBI](./PowerBI) | Business Intelligence dashboards | 🔄 |
-| 📉 [Statistics](./Statistics) | Statistical concepts for Data Analytics | 🔄 |
+| 📈 [Power BI](./Power BI) | Business Intelligence dashboards | 🔄 |
 | 🚀 [Projects](./Projects) | End-to-end Data Analytics projects | 🚧 |
 | 📂 [Datasets](./Datasets) | Datasets used in projects | ⏳ |
 | 📜 [Certificates](./Certificates) | Certifications & achievements | ⏳ |
