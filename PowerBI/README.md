@@ -1,6 +1,6 @@
-# 📈 PowerBI
+# 📈 Power BI
 
-Welcome to the PowerBI section of my Data Analytics Portfolio.
+Welcome to the Power BI section of my Data Analytics Portfolio.
 
 ## 📖 About
 
