@@ -98,4 +98,4 @@ I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, a
 
 ---
 
-> **"Without data, you're just another person with an option." - W.Edwards Deming**
+> **"Without data, you're just another person with an opinion." — W. Edwards Deming**
