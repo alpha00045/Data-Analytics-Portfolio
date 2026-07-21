@@ -27,18 +27,19 @@ I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, a
 
 ---
 
-# 📂 Portfolio Sections
+## 📂 Portfolio Navigation
 
 | Section | Description | Status |
-|---------|-------------|--------|
-| 🐍 Python | Python Programming & Analytics | ✅ Active |
-| 🗄 SQL | Database Queries | ✅ Active |
-| 📊 Excel | Dashboards & Reports | 🔄 Growing |
-| 📈 Power BI | Business Intelligence | 🔄 Growing |
-| 🚀 Projects | Complete Projects | 🚧 In Progress |
-| 📂 Datasets | Project Datasets | ⏳ Coming Soon |
-| 📜 Certificates | Certifications | ⏳ Coming Soon |
-
+|---------|-------------|:------:|
+| 🐍 [Python](./Python) | Python programming, data analysis & Django | ✅ |
+| 🗄️ [SQL](./SQL) | SQL queries, database concepts & practice | ✅ |
+| 📊 [Excel](./Excel) | Excel dashboards, reports & analysis | 🔄 |
+| 📈 [PowerBI](./PowerBI) | Business Intelligence dashboards | 🔄 |
+| 📉 [Statistics](./Statistics) | Statistical concepts for Data Analytics | 🔄 |
+| 🚀 [Projects](./Projects) | End-to-end Data Analytics projects | 🚧 |
+| 📂 [Datasets](./Datasets) | Datasets used in projects | ⏳ |
+| 📜 [Certificates](./Certificates) | Certifications & achievements | ⏳ |
+| 🖼️ [Images](./Images) | Screenshots, dashboards & charts | 📸 |
 ---
 
 # 🚀 Featured Projects
@@ -50,6 +51,19 @@ I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, a
 | 📈 Power BI Sales Dashboard | Power BI | ⏳ Planned |
 | 🎬 Netflix Data Analysis | Python | ⏳ Planned |
 | 👥 HR Analytics Dashboard | Excel + Power BI | ⏳ Planned |
+
+---
+
+## 📈 Portfolio Progress
+
+| Category | Progress |
+|----------|----------|
+| Python | 🟩🟩🟩⬜⬜ 60% |
+| SQL | 🟩🟩⬜⬜⬜ 40% |
+| Excel | 🟩⬜⬜⬜⬜ 20% |
+| Power BI | 🟩⬜⬜⬜⬜ 20% |
+| Statistics | 🟩⬜⬜⬜⬜ 20% |
+| Projects | 🟩⬜⬜⬜⬜ 20% |
 
 ---
 
