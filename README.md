@@ -95,3 +95,7 @@ I enjoy working with **Python, SQL, Excel, Power BI, Statistics, and Django**, a
 ---
 
 ⭐ **Thank you for visiting my portfolio!** Feel free to explore my repositories and follow my progress as I continue building projects in Data Analytics and Software Development.
+
+---
+
+> **"Without data, you're just another person with an option." - W.Edwards Deming**
